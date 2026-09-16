@@ -23,7 +23,7 @@ Metodologias Ágeis (Scrum, Kanban) | Go-to-Market | Descoberta Contínua | Enge
   <a href="https://www.linkedin.com/in/leonardocoitim/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/@leonardocoitim" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://twitter.com/leonardocoitim" target="_blank"><img src="https://img.shields.io/badge/-Twitter-1A91DA?style=for-the-badge&logo=Twitter&logoColor=white" target="_blank"></a>
-  <a href="mailto:leonardocoitim@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="mailto:leonardocoitim90@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
 
 <h2>🎓 Estudos, Linguagens e Tecnologias</h2>
 
