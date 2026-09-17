@@ -1,6 +1,6 @@
 <h2>👨🏻‍💻 Leonardo Coitim — Product Manager</h2>
 
-💻 15 anos em tecnologia (desde 2011), 8 deles dedicados a gestão de produtos digitais — e-commerce, SaaS, produtos internos (backoffice, design system), apps nativos (iOS e Android), web, em mercados B2B e B2C. Passei por Suflex, iFood, Nike, Centauro e NWB.
+💻 15 anos em tecnologia (desde 2011), 8 deles dedicados a gestão de produtos digitais — e-commerce, SaaS, produtos internos (backoffice, design system), apps nativos (iOS e Android), web, em mercados B2B e B2C. Passei por Grupo SBF (Centauro, Nike Brasil e NWB), iFood e estou na Suflex.
 
 
 **💼 Objetivo**
