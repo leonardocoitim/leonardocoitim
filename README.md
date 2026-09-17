@@ -10,9 +10,9 @@ Virar Product Engineer / Product Builder — profissional de produto capaz de de
 
 <h2>🛠️ Habilidades</h2>
 
-Produto: Product Sense, Strategy, Discovery, Growth, Product Ops, Data-Informed Decisions, Go-to-Market
+**Produto**: Product Management, Product Discovery, Product Design, Product Analytics, Análise de Dados, Product Growth, Product Marketing, Product Leadership, AI Product Specialist, Responsible AI (em construção), RAG para Produtos de IA (em construção), AI Product Builder (em construção).
 
-Construção: HTML, CSS, JavaScript (em formação) | Desenvolvimento assistido por IA (Cursor, Claude Code)
+**Desenvolvimento**: HTML, CSS, JavaScript (em formação) | Desenvolvimento assistido por IA (Cursor, Claude Code).
 
 
 <h2>🎓 Em formação</h2>
